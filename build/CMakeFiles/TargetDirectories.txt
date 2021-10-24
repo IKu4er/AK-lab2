@@ -1,0 +1,4 @@
+C:/Users/ULYANA/Desktop/lab2/build/CMakeFiles/rebuild_cache.dir
+C:/Users/ULYANA/Desktop/lab2/build/CMakeFiles/Calculator.dir
+C:/Users/ULYANA/Desktop/lab2/build/CMakeFiles/start.dir
+C:/Users/ULYANA/Desktop/lab2/build/CMakeFiles/edit_cache.dir
